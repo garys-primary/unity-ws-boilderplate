@@ -29,6 +29,9 @@ https://www.mapzen.com/blog/tangram-heightmapper/
 Syntax Cheat Sheet
 https://simplecheatsheet.com/tag/c-cheat-sheet-1/
 
+GameObject available through script
+https://stackoverflow.com/questions/64556764/unity-how-to-set-a-gameobject-to-an-available-object-through-script#:~:text=If%20it%27s%20a%20Game%20Object%20in%20the%20scene%2C,transform.Find%20%28%29.%20...%203%203%29%20Component.GetComponent%20%5Bs%5DInChildren%20%28%29
+
 Syntax Snippets
 ```
 int discount = 50;
